@@ -9,7 +9,7 @@ Na Metodologias de Desenvolvimento de Software as vezes nem sempre o caminho mai
 
 Além disso, o conhecimento sobre diferentes metodologias proporciona uma base para inovação na gestão de projetos de software, Permite que os líderes de engenharia considerem abordagens híbridas, mesclando elementos de diferentes metodologias para criar um framework de desenvolvimento que atenda de maneira mais precisa às demandas do projeto e da organização.
 
-O principal motivo da Metodologia de Desenvolvimento de Software e criar um ambiente seguro e tranquilo para equipe é também dar segurança para o cliente no modo de preparação, mas cada categoria consiste no orçamento do cliente é no tempo que tem para desenvolver o Software, Tudo isso e crucial para a entrega do projeto ser=ja bem-sucedida. Ela oferece um guia claro, estabelece expectativas realistas e facilita a coordenação eficiente entre as equipes, resultando em entregas de software de alta qualidade que atendem ou até superam as expectativas dos stakeholders.
+O principal motivo da Metodologia de Desenvolvimento de Software e criar um ambiente seguro e tranquilo para equipe é também dar segurança para o cliente no modo de preparação, mas cada categoria consiste no orçamento do cliente é no tempo que tem para desenvolver o Software, Tudo isso e crucial para a entrega do projeto seja bem-sucedida. Ela oferece um guia claro, estabelece expectativas realistas e facilita a coordenação eficiente entre as equipes, resultando em entregas de software de alta qualidade que atendem ou até superam as expectativas dos stakeholders.
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
